@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 
-title: Chenghao Data Blog
+title: Chenghao's Data Blog
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Avenco – Creative Portfolio Theme for Jekyll
 
@@ -33,7 +33,7 @@ cover__image: '/images/37.jpg'
 author:
   name: Chenghao Wu
   title: Hello I’m Chenghao Wu
-  bio: I am Chenghao, a data science graduate student at Syracuse University. My area of expertise is Python (pandas/pyspark) as well as Data visualization using R(ggplot2/tidyverse/‎Dplyr ) and Tableau.
+  bio:  A data science/business analytics graduate student from Syracuse University. This is my personal blog where I will post my data science works, articles, videos as well as my thoughts. Hope you enjoy the tour in my data science world! 
   image: '/images/01.jpg'
   avatar: '/images/avatar.jpg'
   button__text: See my works
@@ -44,34 +44,31 @@ author:
 
 projects__settings:
   projects__title: Latest <span class="text-span">Works</span> # Add a 'text-span' class to highlight text.
-  projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  projects__description: Here are few selected personal projects in data engineering, data analytcs,data science and statistics.
 
 
 #-------------------------------
 # Testimonials Section
 
-testimonial__title: My Happy <span class="text-span">Clients</span> # Add a 'text-span' class to highlight text.
+testimonial__title: What my <span class="text-span">co-worker says</span> # Add a 'text-span' class to highlight text.
 
 testimonial-items:
-  - name: "Zaire Baptista"
+  - name: "Sarah Davidson"
     image: "/images/client-1.jpg"
-    designation : "Traveler"
-    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    designation : "Cheif of Staff in Hoyos Integrity Corp"
+    content : "He is an energetic self-starter who enjoys solving reporting and analytics issues and is intent on learning as much as he can about the tools and processes needed to move data from the abstract to the actionable. Chenghao has a friendly and pleasant personality, is a great team member, and will be a benefit to any company looking to improve their business analytics capabilities."
 
-  - name: "Ann Philips"
+  - name: "Rong Li"
     image: "/images/client-2.jpg"
-    designation : "Designer"
-    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    designation : "Associate professer in Syracuse University"
+    content : "Chenghao is excellent in data and business analysis both technically and analytically (which is rare and extremely valuable). He has an open mindset and is always learning. We are so proud to have students like him!!."
 
-  - name: "Roger Bergson"
+  - name: "Jian Jian"
     image: "/images/client-3.jpg"
-    designation : "CEO, Founder"
-    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    designation : "Senior Machine Learning Engineer at Deepcell"
+    content : "Thanks to his meticulous dedication, the team identified nuances that would otherwise not be discovered. His rich knowledge in data science consolidated different pieces of information. He is a trusted team player. When we worked together, Chenghao has always devoted himself to his responsibilities. His ability to master NLP data engineering technology in a short period left a deep impression on me. In addition, during the collaboration, quant and qual research demonstrated his willingness to share ideas with the team."
 
-  - name: "Julie Arnold"
-    image: "/images/client-4.jpg"
-    designation : "Full stack developer"
-    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+
 
 
 #-------------------------------
@@ -86,9 +83,9 @@ blog__settings:
 # Contact Settings
 
 contact__settings:
-  contact__email: your@email.com # Add your email for contact form
+  contact__email: cwu137@syr.edu # Add your email for contact form
   contact__title: <span class="text-span">Get</span> in touch # Add a title to your form
-  contact__description: Avenco comes with a built-in contact form. # Add a description to your form
+  contact__description: Please feel free to send me an email to have a talk. # Add a description to your form
 
 # NOTE
 # Avenco comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
@@ -98,7 +95,7 @@ contact__settings:
 # Newsletter Settings
 mailchimp__settings:
   mailchimp__title: <span class="text-span">Join</span> my mailing list # Add your title
-  mailchimp__text: " 'Get inspiration, updates and', 'cool stuff about design!' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
+  mailchimp__text: " 'Follow Chenghao's recent works and', 'get any updates!' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
   mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
   mailchimp__button__text: Subscribe # Add your button text
 
@@ -119,9 +116,5 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 # Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-codepen", link: "https://codepen.io"}
-- {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
-- {icon: "ion-logo-youtube", link: "https://youtube.com"}
+- {icon: "ion-logo-github", link: "https://github.com/ChenghaoWu316"}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/channel/UCj5bPu_2adgcyc9O30w4WWg"}
