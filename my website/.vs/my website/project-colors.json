@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "afd6af97-4b1f-4826-a223-0607d00950ce": {
+      "ProjectGuid": "afd6af97-4b1f-4826-a223-0607d00950ce",
+      "DisplayName": "my website",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
