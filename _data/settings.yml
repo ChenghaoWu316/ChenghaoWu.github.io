@@ -55,12 +55,12 @@ testimonial__title: What my <span class="text-span">co-worker says</span> # Add 
 testimonial-items:
   - name: "Sarah Davidson"
     image: "/images/client-1.jpg"
-    designation : "Cheif of Staff in Hoyos Integrity Corp"
+    designation : "Chief of Staff in Hoyos Integrity Corp"
     content : "He is an energetic self-starter who enjoys solving reporting and analytics issues and is intent on learning as much as he can about the tools and processes needed to move data from the abstract to the actionable. Chenghao has a friendly and pleasant personality, is a great team member, and will be a benefit to any company looking to improve their business analytics capabilities."
 
   - name: "Rong Li"
     image: "/images/client-2.jpg"
-    designation : "Associate professer in Syracuse University"
+    designation : "Associate Professer in Syracuse University"
     content : "Chenghao is excellent in data and business analysis both technically and analytically (which is rare and extremely valuable). He has an open mindset and is always learning. We are so proud to have students like him!!."
 
   - name: "Jian Jian"
@@ -83,7 +83,7 @@ blog__settings:
 # Contact Settings
 
 contact__settings:
-  contact__email: cwu137@syr.edu # Add your email for contact form
+  contact__email: http://formspree.io/cwu137@syr.edu # Add your email for contact form
   contact__title: <span class="text-span">Get</span> in touch # Add a title to your form
   contact__description: Please feel free to send me an email to have a talk. # Add a description to your form
 
