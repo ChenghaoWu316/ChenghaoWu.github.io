@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-image: '/images/me1111.png'
+image: '/images/me1111.JPEG'
 ---
 
 Hi, my name is Chenghao(Chance) Wu. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf twee thundercats ennui.
@@ -23,7 +23,6 @@ Offal post-ironic before they sold out mixtape you probably haven't heard of the
     <img src="/images/friends.png" alt="Project">
     <img src="/images/friends2.png" alt="Project">
     <img src="/images/friends3.png" alt="Project">
-    <img src="/images/friends4.png" alt="Project">
   </div>
     <em>me with <a href="/" target="_blank">friends</a></em>
 </div>
