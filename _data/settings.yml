@@ -24,7 +24,7 @@ menu__settings:
 cta__button__text: Get in touch
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
-cover__image: '/images/37.jpg'
+cover__image: '/images/banner.jfif'
 
 
 #-------------------------------
@@ -35,7 +35,7 @@ author:
   title: Hello I’m Chenghao Wu
   bio:  A data science/business analytics graduate student from Syracuse University. This is my personal blog where I will post my data science works, articles, videos as well as my thoughts. Hope you enjoy the tour in my data science world! 
   image: '/images/01.jpg'
-  avatar: '/images/avatar.jpg'
+  avatar: '/images/avatar.png'
   button__text: See my works
 
 
