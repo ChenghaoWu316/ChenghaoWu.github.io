@@ -1,27 +1,27 @@
 ---
 layout: post
-title:  That which does not kill us makes us stronger
-date:   2018-11-13 15:01:35 +0300
+title:  How to desgin a data poster for color blindness?
+date:   2019-11-13 15:01:35 +0300
 image:  '/images/02.jpg'
-tags:   [travel, lifestyle]
+tags:   [design, data_visualiztion]
 ---
-In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.
+The data-viz rule: “Don’t use red & green together.” The issue: "Ten percent of men are colorblind and mostly red/green issues." Reaction: "Don't use red and green together." Studies have shown that around 8% of men and 0.5% of women have color vision deficiency (CVD). This is more commonly referred to as colorblindness, although colorblindness is not the most accurate term. Having CVD does not mean that a person can’t see color unless you are the very rare person (one in 33,000 people) with achromatopsia. For the more common person with CVD, the key problem is that colors most people see as different will look the same. The two most common types of CVD are deuteranomaly and deuteranopia, which together count for about 6% of men, and protanomaly and protanopia, which account for another 2% (more information available at color-blindness.com). These conditions are also commonly referred to as “red weak” and “green weak” or “red-green colorblindness.” (Note: I will not discuss blue/yellow CVD because it is far less common.) Here are some tips for designing vizzes that are colorblind-friendly.
+
+
+> 1. Red and green together can be problematic, but they can sometimes be used together
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/project-5.jpg" alt="Project">
-    <img src="/images/project-6.jpg" alt="Project">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.
+So indeed, using red and green together is a common problem. People with strong CVD (strong meaning a more severe condition of CVD) would see both red and green as brown. People with weak CVD can see strong red and green colors as red and green. However, this can still be problematic when the colors are weak or blended together. Keep in mind that being able to tell these colors apart is only an issue if color is the only encoding method used to make a distinct comparison—for example, a good number vs. a bad number in a table, or one line vs. another line in the same line chart. For example, in the chart below, color is needed to tell a good square from a bad square. Using deuteranope simulation, we can see how difficult this would be.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+> 1. Red and green together can be problematic, but they can sometimes be used together
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.
 
-<p><iframe src="https://www.youtube.com/embed/QyQ85DEVpbc" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/watch?v=J7LCT7Qe4Ws&t=291s" frameborder="0" allowfullscreen></iframe></p>
 
 Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.
 
