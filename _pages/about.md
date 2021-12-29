@@ -24,7 +24,6 @@ Offal post-ironic before they sold out mixtape you probably haven't heard of the
     <img src="/images/friends2.png" alt="Project">
     <img src="/images/friends3.png" alt="Project">
     <img src="/images/friends4.png" alt="Project">
-    <img src="/images/friends5.png" alt="Project">
   </div>
     <em>me with <a href="/" target="_blank">friends</a></em>
 </div>
