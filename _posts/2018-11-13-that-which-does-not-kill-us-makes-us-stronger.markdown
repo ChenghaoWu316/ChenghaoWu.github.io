@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  How to desgin a data poster for color blindness?
+title:  How to design data visualization for color blinded people?
 date:   2019-11-13 15:01:35 +0300
 image:  '/images/02.jpg'
-tags:   [design, data_visualiztion]
+tags:   [design, data_visualization]
 ---
 Below is a video from my youtube channel, please like and subscribe :)
 <p><iframe src="https://www.youtube.com/embed/J7LCT7Qe4Ws" frameborder="0" allowfullscreen></iframe></p>
