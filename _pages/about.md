@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-image: '/images/me7.png'
+title: About me
+image: '/images/me1111.png'
 ---
 
 Hi, my name is Chenghao(Chance) Wu. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf twee thundercats ennui.
@@ -19,12 +19,14 @@ Offal post-ironic before they sold out mixtape you probably haven't heard of the
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-5.jpg" alt="Project">
-    <img src="/images/project-8.jpg" alt="Project">
-    <img src="/images/project-6.jpg" alt="Project">
+    <img src="/images/friends.png" alt="Project">
+    <img src="/images/friends2.png" alt="Project">
+    <img src="/images/friends3.png" alt="Project">
+     <img src="/images/friends4.png" alt="Project">
+    <img src="/images/friends5.png" alt="Project">
   </div>
-*Me at traveling*
-</div>
+
+*Me with friends*
 
 Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
 Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan listicle.
