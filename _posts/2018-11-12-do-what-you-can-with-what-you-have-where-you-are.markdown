@@ -36,8 +36,11 @@ Stream: Using the DynamoDB Streams, developers can update and receive the item-l
 </div>
 
 The following are the basic DynamoDB components:
+
 Tables — Similar to other database systems, DynamoDB stores data in tables. A table is a collection of data. For example, see the example table called People that you could use to store personal contact information about friends, family, or anyone else of interest. You could also have a Cars table to store information about vehicles that people drive.
+
 Items — Each table contains zero or more items. An item is a group of attributes that is uniquely identifiable among all of the other items. In a People table, each item represents a person. For a Cars table, each item represents one vehicle. Items in DynamoDB are similar in many ways to rows, records, or tuples in other database systems. In DynamoDB, there is no limit to the number of items you can store in a table.
+
 Attributes — Each item is composed of one or more attributes. An attribute is a fundamental data element, something that does not need to be broken down any further. For example, an item in a People table contains attributes called PersonID, LastName, FirstName, and so on. For a Department table, an item might have attributes such as DepartmentID, Name, Manager, and so on. Attributes in DynamoDB are similar in many ways to fields or columns in other database systems.
 
 <div class="gallery-box">
@@ -64,19 +67,23 @@ When you create a table, in addition to the table name, you must specify the pri
 </div>
 
 Partition key — A simple primary key, composed of one attribute known as the partition key.
+
 DynamoDB uses the partition key’s value as input to an internal hash function. The output from the hash function determines the partition (physical storage internal to DynamoDB) in which the item will be stored.
+
 In a table that has only a partition key, no two items can have the same partition key value.
+
 The People table described in Tables, Items, and Attributes is an example of a table with a simple primary key (PersonID). You can access any item in the People table directly by providing the PersonId value for that item.
+
 Partition key and sort key — Referred to as a composite primary key, this type of key is composed of two attributes. The first attribute is the partition key, and the second attribute is the sort key.
+
 DynamoDB uses the partition key value as input to an internal hash function. The output from the hash function determines the partition (physical storage internal to DynamoDB) in which the item will be stored. All items with the same partition key are stored together, in sorted order by sort key value.
+
 In a table that has a partition key and a sort key, it’s possible for two items to have the same partition key value. However, those two items must have different sort of key values.
-The Music table described in Tables, Items, and Attributes is an example of a table with a composite primary key (Artist and SongTitle). You can access any item in the Music table directly if you provide the Artist and SongTitlevalues for that item.
-A composite primary key gives you additional flexibility when querying data. For example, if you provide only the value for Artist, DynamoDB retrieves all of the songs by that artist. To retrieve only a subset of songs by a particular artist, you can provide a value for Artist along with a range of values for SongTitle.
 
 > DynamoDB can have three data types
 
-Scalar
-Set
+Scalar，
+，Set
 Document
 
 <div class="gallery-box">
