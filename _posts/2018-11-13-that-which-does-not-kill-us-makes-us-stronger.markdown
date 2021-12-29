@@ -46,7 +46,7 @@ My brother-in-law has CVD, so he is frequently the guinea pig for my color exper
 So now that we know there are many more combinations of color that can be problematic, what should we do?
 
 
-<p><iframe src="https://youtu.be/J7LCT7Qe4Ws" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube/embed/J7LCT7Qe4Ws" frameborder="0" allowfullscreen></iframe></p>
 
 
 Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.
