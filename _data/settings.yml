@@ -54,17 +54,17 @@ testimonial__title: What my <span class="text-span">co-worker says</span> # Add 
 
 testimonial-items:
   - name: "Sarah Davidson"
-    image: "/images/client-1.jpg"
+    image: "/images/myclientfemale.png"
     designation : "Chief of Staff in Hoyos Integrity Corp"
     content : "He is an energetic self-starter who enjoys solving reporting and analytics issues and is intent on learning as much as he can about the tools and processes needed to move data from the abstract to the actionable. Chenghao has a friendly and pleasant personality, is a great team member, and will be a benefit to any company looking to improve their business analytics capabilities."
 
   - name: "Rong Li"
-    image: "/images/client-2.jpg"
+    image: "/images/myclientfemale.png"
     designation : "Associate Professer in Syracuse University"
     content : "Chenghao is excellent in data and business analysis both technically and analytically (which is rare and extremely valuable). He has an open mindset and is always learning. We are so proud to have students like him!!."
 
   - name: "Jian Jian"
-    image: "/images/client-3.jpg"
+    image: "/images/myclientf.png"
     designation : "Senior Machine Learning Engineer at Deepcell"
     content : "Thanks to his meticulous dedication, the team identified nuances that would otherwise not be discovered. His rich knowledge in data science consolidated different pieces of information. He is a trusted team player. When we worked together, Chenghao has always devoted himself to his responsibilities. His ability to master NLP data engineering technology in a short period left a deep impression on me. In addition, during the collaboration, quant and qual research demonstrated his willingness to share ideas with the team."
 
