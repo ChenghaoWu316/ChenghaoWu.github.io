@@ -21,7 +21,8 @@ So indeed, using red and green together is a common problem. People with strong 
 > 1. Red and green together can be problematic, but they can sometimes be used together
 
 
-<p><iframe src="https://www.youtube.com/watch?v=J7LCT7Qe4Ws&t=291s" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://youtu.be/J7LCT7Qe4Ws" frameborder="0" allowfullscreen></iframe></p>
+
 
 Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.
 
