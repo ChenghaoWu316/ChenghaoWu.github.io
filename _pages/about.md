@@ -1,13 +1,19 @@
 ---
 layout: page
 title: About
-image: '/images/15.jpg'
+image: '/images/me7.png'
 ---
 
 Hi, my name is Chenghao(Chance) Wu. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf twee thundercats ennui.
 
-![Loneliness]({{site.baseurl}}/images/me.png)
-*Me ea*
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/me.png" alt="Project">
+    <img src="/images/me2.png" alt="Project">
+    <img src="/images/me3.png" alt="Project">
+  </div>
+
+*Me at traveling*
 
 Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim. Tousled brunch leggings hella viral twee etsy butcher messenger.
 
@@ -17,7 +23,7 @@ Offal post-ironic before they sold out mixtape you probably haven't heard of the
     <img src="/images/project-8.jpg" alt="Project">
     <img src="/images/project-6.jpg" alt="Project">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+*Me at traveling*
 </div>
 
 Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
