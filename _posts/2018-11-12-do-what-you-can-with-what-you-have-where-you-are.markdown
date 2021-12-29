@@ -83,7 +83,7 @@ In a table that has a partition key and a sort key, it’s possible for two item
 > DynamoDB can have three data types
 
 Scalar，
-，Set
+Set and
 Document
 
 <div class="gallery-box">
