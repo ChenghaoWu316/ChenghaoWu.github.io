@@ -2,7 +2,7 @@
 layout: post
 title:  How to design data visualization for color blinded people?
 date:   2019-11-13 15:01:35 +0300
-image:  '/images/02.jpg'
+image:  '/images/color1.png'
 tags:   [design, data_visualization]
 ---
 Below is a video from my youtube channel, please like and subscribe :)
@@ -15,37 +15,47 @@ The data-viz rule: “Don’t use red & green together.” The issue: "Ten perce
 
 > Red and green together can be problematic, but they can sometimes be used together
 
+
+So indeed, using red and green together is a common problem. People with strong CVD (strong meaning a more severe condition of CVD) would see both red and green as brown. People with weak CVD can see strong red and green colors as red and green. However, this can still be problematic when the colors are weak or blended together. Keep in mind that being able to tell these colors apart is only an issue if color is the only encoding method used to make a distinct comparison—for example, a good number vs. a bad number in a table, or one line vs. another line in the same line chart. For example, in the chart below, color is needed to tell a good square from a bad square. Using deuteranope simulation, we can see how difficult this would be.
+
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-5.jpg" alt="Project">
+    <img src="/images/color2.png" alt="Project">
   </div>
 </div>
 
-So indeed, using red and green together is a common problem. People with strong CVD (strong meaning a more severe condition of CVD) would see both red and green as brown. People with weak CVD can see strong red and green colors as red and green. However, this can still be problematic when the colors are weak or blended together. Keep in mind that being able to tell these colors apart is only an issue if color is the only encoding method used to make a distinct comparison—for example, a good number vs. a bad number in a table, or one line vs. another line in the same line chart. For example, in the chart below, color is needed to tell a good square from a bad square. Using deuteranope simulation, we can see how difficult this would be.
+I have seen critiques regarding the usr of red and green together in the same visualization, but the colors weren’t being used in a way that required someone to tell the difference between them. If they stand alone—for example, two different charts, one red and one green—and they are labeled well, then it may not be an issue at all if they both appear brown in color. The chart below offers one example where it’s easy to see from the axis line that most numbers are positive and others are negative. Color is a secondary feature simply encoding positive vs. negative. While this may not be the best choice of colors, someone with CVD can interpret this chart without the use of color to make the comparison.
+
+div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/color3.png" alt="Project">
+  </div>
+</div>
 
 > Be aware that it’s not just red and green
 
 Many data visualization tools have a “stoplight” palette built into them, and there are many companies (and clients and bosses) that still insist on using the stoplight palette. With all the talk of stoplight colors and the nicknames for the CVD conditions, it’s no wonder that the data visualization rule has simply become “don’t use red and green.” Below is a simulation of Tableau’s stoplight colors using protanope simulation.
 
-<div class="gallery-box">
+div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-5.jpg" alt="Project">
+    <img src="/images/color4.png" alt="Project">
   </div>
 </div>
 
+
 Notice that the problem here is much more complex than just simply red vs. green. Since red, green, and orange all appear to be brown for someone with strong CVD, it would be more accurate to say, “Don't use red/green/brown/orange together.” However, it doesn’t end there. When colors are mixed, they can also be problematic. One color combination that is frequently overlooked is using blue and purple together. In an RGB color model, purple is achieved by using blue and red together. If someone has issues with red, then the person may also have issues with purple, which would appear to look like blue. Also, pink and gray together and gray and brown together can be problematic. Below is the Tableau 10 color palette using a deuteranope simulation. Not only are red, green, and brown problematic but so are blue and purple, pink and gray, and gray and brown.
 
-<div class="gallery-box">
+div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-5.jpg" alt="Project">
+    <img src="/images/color5.png" alt="Project">
   </div>
 </div>
 
 My brother-in-law has CVD, so he is frequently the guinea pig for my color experiments. Off all of the things I’ve tested on him, the combination of colors on the image below (left) was the hardest for him to distinguish. He seems to suffer from protanopia, which is simulated below on the right.
 
-<div class="gallery-box">
+div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-5.jpg" alt="Project">
+    <img src="/images/color6.png" alt="Project">
   </div>
 </div>
 
@@ -57,13 +67,13 @@ One color used together in combination with another color is generally fine when
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-5.jpg" alt="Project">
+    <img src="/images/color7.png" alt="Project">
   </div>
 </div>
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-5.jpg" alt="Project">
+    <img src="/images/color8.png" alt="Project">
   </div>
 </div>
 
