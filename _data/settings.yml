@@ -10,9 +10,9 @@ menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'Projects'
-      url: '/projects'
+      url: '/projects/'
     - title: 'Blogs'
-      url: '/blog'
+      url: '/blog/'
     - title: 'Pages'
       submenu:
       - url: '/about'
