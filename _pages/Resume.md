@@ -14,7 +14,7 @@ title: Resume
     <title>Chenghao's resume'</title>
   </head>
   <body>
-    <iframe src="/resume.pdf" width="200%" height="250px">
+    <iframe src="/resume.pdf" width="100%" height="250px">
     </iframe>
   </body>
 </html>
