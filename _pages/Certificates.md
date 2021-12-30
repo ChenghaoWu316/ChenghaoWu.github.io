@@ -10,17 +10,17 @@ title: Certificates
 ***
 
 ![Caffe]({{site.baseurl}}/images/ibm.jfif)
-*IBM [Professional Data Science](https://www.coursera.org/account/accomplishments/professional-cert/FT9QCFTCU98S?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)/)*
+*IBM [Professional Data Science](https://www.coursera.org/account/accomplishments/professional-cert/FT9QCFTCU98S?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)*
 
 ***
 
 ![Caffe]({{site.baseurl}}/images/aws.png)
-*AWS [Certificated Cloud Practitioner](https://www.credly.com/badges/4d42b753-74ac-4b27-9959-1a65ca3991a3/linked_in_profile)/)*
+*AWS [Certificated Cloud Practitioner](https://www.credly.com/badges/4d42b753-74ac-4b27-9959-1a65ca3991a3/linked_in_profile)*
 
 ***
 
 ![Caffe]({{site.baseurl}}/images/tableau.jfif)
-*Tableau [Data Analyst](https://www.credly.com/badges/68d55236-10b9-422d-a950-b3938f828ce0?source=linked_in_profile)/)*
+*Tableau [Data Analyst](https://www.credly.com/badges/68d55236-10b9-422d-a950-b3938f828ce0?source=linked_in_profile)*
 
 ***
 
@@ -30,6 +30,6 @@ title: Certificates
 ***
 
 ![Caffe]({{site.baseurl}}/images/wharton.jfif)
-*Wharton [Entrepreneurship](https://www.coursera.org/account/accomplishments/specialization/certificate/7B4FMJPXNTWM)/)*
+*Wharton [Entrepreneurship](https://www.coursera.org/account/accomplishments/specialization/certificate/7B4FMJPXNTWM)*
 
 ***
