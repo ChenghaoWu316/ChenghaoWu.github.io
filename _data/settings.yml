@@ -19,6 +19,11 @@ menu__settings:
         title: 'About'
       - url: '/elements'
         title: 'Elements'
+      - url: '/Resume'
+        title: 'Resume'
+      - url: '/Certificates'
+        title: 'Certificates'
+
 
 # Call to action button
 cta__button__text: Get in touch
