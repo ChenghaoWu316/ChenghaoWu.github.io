@@ -17,12 +17,12 @@ menu__settings:
       submenu:
       - url: '/about'
         title: 'About'
-      - url: '/elements'
-        title: 'Elements'
       - url: '/Resume'
         title: 'Resume'
       - url: '/Certificates'
         title: 'Certificates'
+      - url: '/elements'
+        title: 'Elements'
 
 
 # Call to action button
