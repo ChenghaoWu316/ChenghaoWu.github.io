@@ -8,7 +8,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 <html>
   <body>
-    <a href="https://drive.google.com/file/d/1FePQNbnDDSJLKZxzr2ovJIq-TkGz0SII/view?usp=sharing">Download Resume</a>
+    <a href="https://drive.google.com/file/d/1FePQNbnDDSJLKZxzr2ovJIq-TkGz0SII/view?usp=sharing"># Download my resume here</a>
   </body>
 </html>
 
