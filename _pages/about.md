@@ -31,3 +31,6 @@ Professional Certificates:
 • AWS Cloud Practitioner: AWS
 • AWS Solution Architect(associate): AWS
 • Entrepreneurship Certificate: Wharton Online School
+
+
+

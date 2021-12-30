@@ -1,8 +1,8 @@
 ---
-title: Minimalism
+title: SpaceX data science
 date: 2021-01-25 08:00:35 +0300
-subtitle: Photography
-image: '/images/project-8.jpg'
+subtitle: data science
+image: '/images/spacex.jpg'
 ---
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
@@ -14,7 +14,7 @@ In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tar
     <img src="/images/project-7.jpg" alt="Project">
   </div>
   <em>Projects / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+</div>60
 
 Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.
 
