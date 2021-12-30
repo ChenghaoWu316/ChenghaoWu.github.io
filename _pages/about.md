@@ -1,11 +1,13 @@
 ﻿---
 layout: page
 title: About me
+
 ---
 
 Hi, my name is Chenghao(Chance) Wu, a data science/business major graduate student at Syracuse University who is looking for an opportunity for a full-time job as Data Analyst/Data Engineer/Data Scientist/Business Analyst after my graduation on May 17th 2022. I have been participating in data and business industry for 3+ years.
 
-Skills:
+## Skills:
+
 Programming: Python (Pandas, NumPy, matplotlib, seanborn, wordcloud, plotly, dash(html), NLTK, tensorflow, Scikit, SciPy, PySpark, OOP), R(ggplot, dplyr, caret, tidyverse , RMarkdown) Shiny.
 
 Machine Learning: Regression, SVM ,LSTM, Naive Bayes, Random Forest, LDA, K-means, KNN.
@@ -21,13 +23,16 @@ Buiness: Buiness Plan, Financial Statement Analysis, Pitch, Portofolio Managemen
 
 LOL Rank: Gold 4 (Ekko, Graves main)
 
-Professional Certificates:
+## Professional Certificates:
 • Data Science: Syracuse University
 • Business Analytics: Syracuse University
 • Tableau Data Analyst: Tableau
 • AWS Cloud Practitioner: AWS
 • AWS Solution Architect(associate): AWS
 • Entrepreneurship Certificate: Wharton Online School
+
+
+## My hobbies
 
 When on vacation, I love traveling around the world, craving for loacl foods and enjoying the beatiful views. I also have a ferret called Coco who accompanies with me when working at home. 
 
