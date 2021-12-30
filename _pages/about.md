@@ -1,9 +1,35 @@
----
+﻿---
 layout: page
 title: About me
 ---
 
-Hi, my name is Chenghao(Chance) Wu. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf twee thundercats ennui.
+Hi, my name is Chenghao(Chance) Wu, a data science/business major graduate student at Syracuse University who is looking for an opportunity for a full-time job as Data Analyst/Data Engineer/Data Scientist/Business Analyst after my graduation on May 17th 2022. I have been participating in data and business industry for 3+ years.
+
+Skills:
+Programming: Python (Pandas, NumPy, matplotlib, seanborn, wordcloud, plotly, dash(html), NLTK, tensorflow, Scikit, SciPy, PySpark, OOP), R(ggplot, dplyr, caret, tidyverse , RMarkdown) Shiny.
+
+Machine Learning: Regression, SVM ,LSTM, Naive Bayes, Random Forest, LDA, K-means, KNN.
+
+Database and Tools: SQL, Spark-SQL, Advanced SQL(3nd form, index, transaction dead lock, view, stored procedure, security), PostgreSQL, MongoDB, Redis, Kafka, Cassandra, Airflow, Drill, Search Engine, Neo4j, Git(Gitlab, Github, Linux), Inmon Star Schema,REST API.
+
+Big Data Tools: Spark, SSIS, SSAS, Spark-SQL, Databricks, Hadoop, Hive, Tableau, Power-BI, WEKA
+
+
+Cloud Technologies: Docker, AWS S3, AWS EC2, AWS Lambda, AWS DynamoDB, Azure Data Factory, IBM Watson, Looker.
+
+Buiness: Buiness Plan, Financial Statement Analysis, Pitch, Portofolio Management Analysis(Stock, Option, Debt, ETF, Other Assets), Risk Detection(Benford's Law, SVM, Random Forest, PCA) , Stock Price Prediction, Market Analysis, Digital Marketing, Branding, Pricing, Growth Strategy, Business Model(Value-chain, Disruptive), Customer Life Valution, Competing Strategy, Company Valuation(Benkus, VC, Scorecard), Financing Strategy(Crowd Funding, Venture Capital, Angel Investor, Debt, FFF).
+
+LOL Rank: Gold 4 (Ekko, Graves main)
+
+Professional Certificates:
+• Data Science: Syracuse University
+• Business Analytics: Syracuse University
+• Tableau Data Analyst: Tableau
+• AWS Cloud Practitioner: AWS
+• AWS Solution Architect(associate): AWS
+• Entrepreneurship Certificate: Wharton Online School
+
+When on vacation, I love traveling around the world, craving for loacl foods and enjoying the beatiful views. I also have a ferret called Coco who accompanies with me when working at home. 
 
 <div class="gallery-box">
   <div class="gallery">
@@ -15,7 +41,7 @@ Hi, my name is Chenghao(Chance) Wu. I like being at the center of events, being 
 </div>
 
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim. Tousled brunch leggings hella viral twee etsy butcher messenger.
+I love being with my friends and talking to different people, we can have a conversation about music, movie or play video games togather.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -26,9 +52,5 @@ Offal post-ironic before they sold out mixtape you probably haven't heard of the
     <em>me with <a href="/" target="_blank">friends</a></em>
 </div>
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan listicle.
-
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray forage.
 
 ***
