@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Elements
-image: '/images/27.jpg'
+title: Resume
 ---
-
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
 
 <html>
   <body>
-    <b href="https://drive.google.com/file/d/1FePQNbnDDSJLKZxzr2ovJIq-TkGz0SII/view?usp=sharing">Download my resume here</b>
+    <a href="https://drive.google.com/file/d/1FePQNbnDDSJLKZxzr2ovJIq-TkGz0SII/view?usp=sharing">Download my resume here</a>
   </body>
 </html>
 
