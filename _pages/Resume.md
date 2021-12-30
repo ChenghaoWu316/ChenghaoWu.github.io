@@ -9,5 +9,14 @@ title: Resume
   </body>
 </html>
 
+<html>
+  <head>
+    <title>Chenghao's resume'</title>
+  </head>
+  <body>
+    <iframe src="/resume.pdf" width="100%" height="500px">
+    </iframe>
+  </body>
+</html>
 ***
 
