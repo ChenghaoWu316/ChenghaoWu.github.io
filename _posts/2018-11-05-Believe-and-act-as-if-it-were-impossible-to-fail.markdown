@@ -26,7 +26,7 @@ tags:   [Linux,commands]
     <tr><td>rm filename</td><td>Deletes a file</td></tr>
     <tr><td>man</td><td>Gives help information on a command</td></tr>
     <tr><td>history</td><td>Gives a list of all past commands typed in the current terminal session</td></tr>
-    <tr><td>clear</td><td>Clears the terminal<td></tr>
+    <tr><td>clear</td><td>Clears the terminal</td></tr>
     <tr><td>mkdir directoryname</td><td>Creates a new directory in the present working directory or a at the specified path</td></tr>
     <tr><td>rmdir</td><td>Deletes a directory</td></tr>
     <tr><td>mv</td><td>Renames a directory</td></tr>
