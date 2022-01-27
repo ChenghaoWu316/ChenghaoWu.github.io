@@ -16,13 +16,13 @@ Watson is a question-answering computer system capable of answering questions po
 
 1.Watson’s very first commercial application was in the healthcare industry. In 2013, the software was put to task at Memorial Sloan Kettering Cancer Center in New York, making clinical decisions about lung cancer diagnosis and treatments. IBM Watson Health (or Doctor Watson, perhaps?) is currently used in the discovery of new drugs, patient engagement, oncology and genomics. But Watson isn’t just good at knowing how to respond to certain illnesses. IBM claims that the system’s ability to gather and apply masses of information from an exhaustive list of sources means that in some cases it can outperform human medical professionals. 
 
-2. As well as providing invaluable medical advice, Watson is also a crime-fighting vigilante. Forget the tights and cape, though – the supercomputer is battling against the digital epidemic that is cybercrime.
+2.As well as providing invaluable medical advice, Watson is also a crime-fighting vigilante. Forget the tights and cape, though – the supercomputer is battling against the digital epidemic that is cybercrime.
 
 3.Automakers and tech companies are teaming up to create in-car systems that offer services based on passenger preferences whilst ensuring that the vehicle is aware of its surroundings and therefore safe. 
 
-4. By collecting, ordering and digesting data, AI is very useful when it comes to persuading people to part with their money. Various Watson APIs geared towards marketing have been created using the IBM Watson Developer Cloud. The North Face, for instance, uses a Watson-based Expert Personal Shopper (XPS) app to attend to customers in store. 
+4.By collecting, ordering and digesting data, AI is very useful when it comes to persuading people to part with their money. Various Watson APIs geared towards marketing have been created using the IBM Watson Developer Cloud. The North Face, for instance, uses a Watson-based Expert Personal Shopper (XPS) app to attend to customers in store. 
 
-5. It can teach you how to do it yourself by coming up with step-by-step recipes based on your own dietary requirements and favorite ingredients. 
+5.It can teach you how to do it yourself by coming up with step-by-step recipes based on your own dietary requirements and favorite ingredients. 
 
 >How does watson work?
 
