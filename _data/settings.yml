@@ -73,7 +73,10 @@ testimonial-items:
     designation : "Senior Machine Learning Engineer at Deepcell"
     content : "Thanks to his meticulous dedication, the team identified nuances that would otherwise not be discovered. His rich knowledge in data science consolidated different pieces of information. He is a trusted team player. When we worked together, Chenghao has always devoted himself to his responsibilities. His ability to master NLP data engineering technology in a short period left a deep impression on me. In addition, during the collaboration, quant and qual research demonstrated his willingness to share ideas with the team."
 
-
+  - name: "Alan Nguyen"
+    image: "/images/myclientf.png"
+    designation : "Forward Deployed Engineer at Robust Intelligence"
+    content : "Chenghao worked under me in the iSchool iLab as a Technical Consultant, and while he has supported our level one systems, he has proven to be a very versatile worker. Coming from an engineering and data science background, I was very surprised at how fast he grasp IT and cloud concepts while simultaneously applying this knowledge in practice. Furthermore, he is very active in his role and will take initiative to learn new things and maintain the responsibilities in timely manner once given to him. He has been a Swiss Army Knife to my lab of workers, and I am certain he will be just as good where ever his endeavors lie next."
 
 
 #-------------------------------
