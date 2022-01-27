@@ -10,7 +10,7 @@ tags:   [Linux,commands]
 <div class="table-container">
   <table>
     <tr><th>Commands</th><th>Description</th></tr>
-    <tr><td>ls</td><td>Row:Lists all files and directories in the present working directory</td></tr>
+    <tr><td>ls</td><td>Lists all files and directories in the present working directory</td></tr>
     <tr><td>ls -R</td><td>Lists files in sub-directories as well</td></tr>
     <tr><td>ls -a</td><td>Lists hidden files as well</td></tr>
     <tr><td>ls -al</td><td>Lists files and directories with detailed information like permissions,size, owner, etc.</td></tr>
