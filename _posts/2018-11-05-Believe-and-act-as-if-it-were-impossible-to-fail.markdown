@@ -39,3 +39,7 @@ tags:   [Linux,commands]
     <tr><td>mail -s "Subject" to-address < Filename</td><td>Command to send email with attachment</td></tr>
   </table>
 </div>
+
+
+
+For more Linux commands, please visit：https://www.guru99.com/linux-commands-cheat-sheet.html
