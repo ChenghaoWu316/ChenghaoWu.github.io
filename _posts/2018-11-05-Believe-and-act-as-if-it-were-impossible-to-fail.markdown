@@ -6,7 +6,7 @@ image:  '/images/10.jpg'
 tags:   [Linux,commands]
 
 ---
-<Basic Linux Command
+>Basic Linux Command
 <div class="table-container">
   <table>
     <tr><th>Commands</th><th>Description</th></tr>
